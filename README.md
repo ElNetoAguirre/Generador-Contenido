@@ -25,11 +25,11 @@ En ambos casos te preguntará por:
 
 * Temperatura o Creatividad: del 1 al 10, que tan creativa quieres que sea tu respuesta.
 
-Por el momento, al momento de resumir algún texto, sólo admite texto **sin saltos de línea**.
+Por el momento, al momento de resumir algún texto, sólo admite texto **"sin saltos de línea"**.
 
 El modelo utilizado para la generación o resúmen de artículos es el **`text-davinci-002`**
 
-Es recomendable ejecutarlo en una terminal por separado para poder tener una mejor visualización de la conversación.
+Es recomendable ejecutarlo en una terminal por separado para poder tener una mejor visualización del texto generado.
 
 ---
 **Nota 1:** Para poder usar el programa, tendrás que generar tu propia API KEY de ChatGPT en el siguiente [**enlace**](https://platform.openai.com), loguearte, en la sección **"Personal"** ir a **"View API Keys"** y crearla en el botón **"+ Create new secret key"**.
