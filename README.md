@@ -34,6 +34,6 @@ Es recomendable ejecutarlo en una terminal por separado para poder tener una mej
 ---
 **Nota 1:** Para poder usar el programa, tendrás que generar tu propia API KEY de ChatGPT en el siguiente [**enlace**](https://platform.openai.com), loguearte, en la sección **"Personal"** ir a **"View API Keys"** y crearla en el botón **"+ Create new secret key"**.
 
-**Nota 2:** Tomar en cuenta que usar la API de ChatGPT no es gratis, solo cuentas con $5 dlls para consumir en 3 meses (lo qe ocurra primero), por lo que problablemente tendrás pocas interacciones.
+**Nota 2:** Tomar en cuenta que usar la API de ChatGPT no es gratis, solo cuentas con $5 dlls para consumir en 3 meses (lo que ocurra primero), por lo que problablemente tendrás pocas interacciones.
 
 ---
